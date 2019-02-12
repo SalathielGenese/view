@@ -20,15 +20,14 @@
                 touch-action: none;
             }
         </style>
-        <script src="js/babylon.js"></script>
-        <!-- <script src="ts/babylon.d.ts"></script> -->
-        <script src="js/stats.js"></script>
+        <script src="./js/stats.js"></script>
+        <script src="./js/babylon.js"></script>
     </head>
     <body>
         <canvas id="renderCanvas" touch-action="none"></canvas> //touch-action="none" for best results from PEP
-        <script src="dist/core.js"></script>
-        <script src="dist/utils.js"></script>
-        <script src="dist/view.js"></script>
-        <script src="dist/main.js"></script>
+        <script type="module" src="dist/core.js"></script>
+        <script type="module" src="dist/utils.js"></script>
+        <script type="module" src="dist/view.js"></script>
+        <script type="module" src="dist/main.js"></script>
     </body>
 </html>
