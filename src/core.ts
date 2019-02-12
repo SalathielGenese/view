@@ -1,5 +1,3 @@
-import * as BABYLON from 'babylonjs';
-
 export class Core {
     private canvas: any;
     private engine: BABYLON.Engine;
