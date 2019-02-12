@@ -1,0 +1,8 @@
+{
+  "name": "view",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SalathielGenese/view.git",
+  "author": "SalathielGenese <salathielgenese@gmail.com>",
+  "license": "MIT"
+}
