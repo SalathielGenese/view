@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/SalathielGenese/view.git",
   "author": "SalathielGenese <salathielgenese@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "babylonjs": "4.0.0-alpha.11"
+  }
 }
